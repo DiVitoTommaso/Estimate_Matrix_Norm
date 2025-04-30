@@ -1,4 +1,4 @@
-## Minimize-Matrix-Norm (Track 17 NO-ML) 
+## Estimating the matrix norm (Track 17 NO-ML) 
 
 **(P)** is the problem of estimating the matrix norm for a (possibly rectangular) matrix, using its definition as an **unconstrained maximum problem**.
 
